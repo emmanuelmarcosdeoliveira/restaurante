@@ -1,0 +1,9 @@
+.nav-cardapio .nav-link.active {
+background-color: var(--cor-destaque);
+color: var(--cor-principal);
+}
+.nav-cardapio .nav-link:hover {
+  color: var(--cor-destaque) ;
+
+} 
+
