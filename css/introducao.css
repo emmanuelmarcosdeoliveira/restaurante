@@ -2,8 +2,8 @@
   font-family: "Pacifico", coursive;
 }
 
-#sobre-o-restaurante {
-  background-color: #ffeae6;
+#sobre-o-restaurante, #cardapio {
+  background-color: var(--cor-bg);
 }
 
 .carousel-item img {
