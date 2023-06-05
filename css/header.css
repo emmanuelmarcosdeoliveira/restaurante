@@ -1,0 +1,17 @@
+.navbar {
+  background-color: var(--cor-destaque);
+}
+#cabecalho .nav .nav-link.active {
+  background-color: var(--cor-principal);
+  color: var(--cor-destaque);
+}
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover{
+  color: var(--cor-principal);
+}
+
+.navbar-toggler {
+  background-color: var(--cor-bg);
+}

@@ -1,0 +1,9 @@
+body {
+  font-family: Roboto, san-serif;
+}
+
+:root {
+--cor-destaque: #e15f41;
+--cor-bg: #ffeae6;
+--cor-principal : #fff;
+}

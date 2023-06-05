@@ -1,0 +1,17 @@
+.section-title {
+  font-family: "Pacifico", coursive;
+}
+
+#sobre-o-restaurante, #cardapio {
+  background-color: var(--cor-bg);
+}
+
+.carousel-item img {
+  width: 100vw;
+}
+
+@media (max-width: 767px) {
+  .carousel-item img {
+    height: 250px;
+  }
+}

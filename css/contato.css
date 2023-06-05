@@ -1,0 +1,21 @@
+.social-links li {
+  list-style: none;
+  display: inline;
+}
+.social-links a {
+  text-decoration: none;
+}
+#fale-conosco button {
+  background-color: var(--cor-destaque);
+  color: var(--cor-principal);
+}
+#fale-conosco button:hover {
+  background-color: var(--cor-bg);
+  color: var(--cor-destaque);
+}
+
+.modal-body p {
+  color: var(--cor-destaque);
+  font-family: "Pacifico";
+  font-size: 1.2rem;
+}
